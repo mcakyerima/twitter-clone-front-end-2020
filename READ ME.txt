@@ -1,3 +1,3 @@
 in this challenge, i am going to build TWITTER Clone with React as my end of the year challange that i do
 at the end of every year. to wrap up and go on a vacation. but due to the pandamic, i 'am staying home while 
-maintain social distancing.
+maintaining social distancing.
